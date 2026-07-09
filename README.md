@@ -24,4 +24,6 @@ https://abhi-cool.itch.io/tic-tac-toe-ultimate
 
 NOTE - this is a two player game invite a friend and play together
 
+NOTE TO Reviewer  - I have already finnished my project and dont no how to use github desktop to track my progress after im done if any thing is wrong please tell me , thank you.
+
 THANKS TO Kenny Yip Coding FOR THIS IDEA.
